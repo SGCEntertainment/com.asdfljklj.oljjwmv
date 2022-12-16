@@ -1,0 +1,4 @@
+﻿
+Al salir de la pelota totalmente fuera de los límites de la zona a través de un tiro, restauran el curso del juego. Durante el procedimiento, el jugador que lanza debe estar de cara al campo de juego, pie de atleta, de pie sobre la línea de contacto.
+
+La pelota echan con ambas manos por la cabeza. Los rivales están al menos a 2 metros del punto de lanzamiento.

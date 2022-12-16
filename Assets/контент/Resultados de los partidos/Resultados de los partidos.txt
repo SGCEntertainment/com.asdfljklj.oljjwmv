@@ -1,0 +1,76 @@
+﻿
+Inglaterra
+6
+ : 
+2
+Irán
+
+
+Senegal
+0
+ : 
+2
+Países bajos
+
+
+Estados unidos
+1
+ : 
+1
+Gales
+
+
+Ingulec
+1
+ : 
+0
+Los leones
+
+
+Veres
+0
+ : 
+1
+El Dinamo De Kiev"
+
+
+Altai
+1
+ : 
+0
+Genchlerbirliga
+
+
+Tianjin Jinmen Tiger
+2
+ : 
+1
+Shanghai Shenhua
+
+
+Changchun Yatai
+4
+ : 
+1
+Hebei
+
+
+Chengdu Rongcheng
+2
+ : 
+1
+Shandong Taishan
+
+
+Wuhan Fritas Townes
+3
+ : 
+0
+Мэйчжоу Hakka
+
+
+Guangzhou City
+1
+ : 
+2
+Beijing Guoan
